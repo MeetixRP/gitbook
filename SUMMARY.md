@@ -4,8 +4,9 @@
 
 ## Regels
 
-* [Server-regels](regels/server-regels.md)
+* [Server-regels](regels/server-regels/README.md)
+  * [Offroad-voertuigen](regels/server-regels/offroad-voertuigen.md)
 
-***
+## Informatie
 
-* [Toetscombinaties en commands](toetscombinaties-en-commands.md)
+* [Toetscombinaties en commands](informatie/toetscombinaties-en-commands.md)
