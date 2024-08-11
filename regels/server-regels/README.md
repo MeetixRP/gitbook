@@ -222,14 +222,6 @@ Het is niet toegestaan om overvallen te starten tijdens evenementen. Ongeacht of
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie
 
-### 2.1.6 Wapenprijzen.
-
-Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale verkoopwaarde hier aan. Dit is te zien op de volgende link: [Wapenprijzen](https://docs.google.com/spreadsheets/d/1BFDMLMMLSbPbkiybLvzf6KQwGBwWe3NEEW2Pbxjcw6c/edit?usp=sharing)
-
-Wij hebben geen prijzen onder de 150.00 euro opgenomen vanwege regel 2.1.4 - overvallen en oplichting van spelers
-
-
-
 ### 2.1.8 - Verkoop via telefoon
 
 Het is niet toegestaan om illegale goederen te verhandelen via openbare apps op de telefoon. Uiteraard wel via privéberichten en darkweb met mensen maar niet via marktplaats, instagram etc.
