@@ -182,47 +182,12 @@ Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel
 
 1. Tijdens het plegen van een overval dien je voor bepaalde dingen ten alle tijden een wapen te hebben. Dit zal hieronder duidelijker vermeld worden. Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder geschut te gebruiken, dit is op eigen risico.
 2. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
+3. Herhaaldelijk opeisen van in beslag genomen wapens is niet toegestaan. Als een wapen in beslag is genomen, kan het alleen worden teruggewonnen door een agent te rippen. Echter, als je een wapen wilt terugeisen door agenten onder druk te zetten door het gijzelen van hun collega's of burgers, moet er toestemming komen van een officier van justitie (of hoger).
+4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
+5. Het is voor de Politie en criminelen niet toegestaan om de Groepering/Koppel limiet te overschrijden! Zie:[#id-1.20-groeperingen-gangs](./#id-1.20-groeperingen-gangs "mention")
+6. Het is niet toegestaan om de Politie van buitenaf af te wachten. Je mag van buitenaf meedoen maar je mag niet op een andere locatie de Politie opwachten
 
-* Winkel: Handwapens
-* (Kleine) Bank: Vuurwapens
-* Jacht: Vuurwapens
-* Cayo Perico: Vuurwapens
-
-3. Het is niet toegestaan om volautomatische vuurwapens te gebruiken bij winkelovervallen, huisinbraken of pinautomaatkraak, ook niet door buitenaf.
-4. Herhaaldelijk opeisen van in beslag genomen wapens is niet toegestaan. Als een wapen in beslag is genomen, kan het alleen worden teruggewonnen door een agent te rippen. Echter, als je een wapen wilt terugeisen door agenten onder druk te zetten door het gijzelen van hun collega's of burgers, moet er toestemming komen van een officier van justitie (of hoger).
-5. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
-6. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden.
-
-* Winkel: 3+ Agenten
-* Juwelier: 7+ Agenten
-* Grote bank: 10+ Agenten
-* Kleine bank: 5+ Agenten
-* Cayo Perico: 8+ Agenten
-* Casino: 10+ Agenten
-* G4S: 12+ Agenten
-* Jacht: 10+ Agenten
-
-> #### 8. Voor de overheid:
-
-Bij overvallen zit een maximum aantal voertuigen dat toegestaan is om te koppelen in een achtervoling, namelijk het volgende:
-
-* Bij een winkeloverval 4 voertuigen.
-* Bij een woninginbraak 4 voertuigen.
-* Bij een kleine bank 9 voertuigen.
-* Bij een juwelier 9 voertuigen.
-* Bij een jacht 9 voertuigen.
-* Bij een grote bank 13 voertuigen. (waarvan maximaal 5 bsb/dsi)
-* Bij een G4s zit geen maximum.
-
-Dit alles is gericht op 1 ontsnappings voertuig. Indien overvallers met meerdere voertuigen willen ontsnappen vanuit de overval-locatie, mag hier per extra ontsnappingsvoertuig 1 extra overheidsvoertuig koppelen. Word er van buiten af geschoten of geholpen is het natuurlijk wel toegestaan voor de overheid om stappen te ondernemen richting deze personen, en hier aan te koppelen
-
-Het is wel toegestaan om tijdens de onderhandelingen met meer agenten aanwezig te zijn voor het afzetten van gebieden en andere taken. \`\`\`
-
-### 2.1.3 - Overvallen tijdens evenementen
-
-Het is niet toegestaan om overvallen te starten tijdens evenementen. Ongeacht of de voorbedachte gedachten ervan goed of niet waren blijft het verboden tenzij het bij het evenement betrokken is. De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in een straf van de 2ᵉ categorie.
-
-### 2.1.4 - Overvallen en oplichten van spelers
+### 2.1.3 - Overvallen en oplichten van spelers
 
 Het overvallen/oplichten van medespelers is enkel toegestaan wanneer deze bezig is met een Criminele activiteit of als deze criminele kleding draagt! Criminele kleding is kleding zoals: armor, helmen, maskers, en complete leger-outfits (broek + shirt) etc.
 
@@ -237,6 +202,10 @@ Het overvallen/oplichten van medespelers is enkel toegestaan wanneer deze bezig 
 
     In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen buiten een appartement/huis)
 * Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de hele dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
+
+### 2.1.4 - Overvallen tijdens evenementen
+
+Het is niet toegestaan om overvallen te starten tijdens evenementen. Ongeacht of de voorbedachte gedachten ervan goed of niet waren blijft het verboden tenzij het bij het evenement betrokken is. De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in een straf van de 2ᵉ categorie.
 
 ### 2.1.5 Tiewraps en boeien
 
@@ -259,11 +228,7 @@ Om buitensporige bedragen rondom vuurwapens tegen te gaan, zit er een maximale v
 
 Wij hebben geen prijzen onder de 150.00 euro opgenomen vanwege regel 2.1.4 - overvallen en oplichting van spelers
 
-### 2.1.7 - Drugs-verkoop locaties
 
-Er dient altijd een goede reden te zijn om iemand te rippen. Het zien praten met een NPC is niet voldoende reden om persoon hier te overvallen. (Heeft persoon gezicht bedekkende kleding mag dit uiteraard wel)
-
-De overtreding van Wet 2.1.7 (Drugs-verkoop locaties) zal resulteren in een straf van de 2ᵉ categorie.
 
 ### 2.1.8 - Verkoop via telefoon
 
