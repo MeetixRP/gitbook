@@ -192,15 +192,18 @@ Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel
 Het overvallen/oplichten van medespelers is enkel toegestaan wanneer deze bezig is met een Criminele activiteit of als deze criminele kleding draagt! Criminele kleding is kleding zoals: armor, helmen, maskers, en complete leger-outfits (broek + shirt) etc.
 
 * Je mag maximaal 150K scammen op illegale goederen (Hierin zit geen onderscheid tussen zwart- of witgeld
-*   Heb je zelf iemand een wapen zien trekken, Dan mag je tot de volgende ochtend 06:00 deze persoon hiervoor overvallen. Hierna niet meer
-
-    Het volgende is SOWIEZO ten strengste verboden: Nieuwe spelers overvallen/oplichten Scammen op legale goederen Custom kentekens afpakken (Aangeschaft via de shop) Spelers die bezig zijn met een UWV/Standaard job overvallen/oplichten Het in bezit hebben/stelen van bezittingen/voorwerpen van overheidsinstanties. (Zoals wapens, repairskits, aed, etc) Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld Oplichten met voertuigen. (Zoals een auto fully tuned verkopen die dat niet is.) Het overvallen van vaste drugs of witwas locaties
-
-    Is iemand niet bezig met illegale activiteiten, of is er geen geldige reden (dus persoon is enkel aan het volgen bijvoorbeeld) is er geen reden om iemand te overvallen
-
-    Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan. (Behalve bij illegale activiteiten/goederen)
-
-    In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen buiten een appartement/huis)
+* Heb je zelf iemand een wapen zien trekken, dan mag je tot de volgende ochtend 06:00 deze persoon hiervoor overvallen. Hierna niet meer.
+* Het volgende is SOWIEZO ten strengste verboden:
+  * Nieuwe spelers overvallen/oplichten.
+  * Scammen op legale goederen.
+  * Custom kentekens afpakken (aangeschaft via de shop).
+  * Spelers die bezig zijn met een UWV/Standaard job overvallen/oplichten.
+  * Het in bezit hebben/stelen van bezittingen/voorwerpen van overheidsinstanties (zoals wapens, repairskits, AED, etc.).
+  * Het onder dwang ontnemen van bezittingen uit een kluis of het pinnen van geld.
+  * Oplichten met voertuigen (zoals een auto fully tuned verkopen die dat niet is).
+  * Is iemand niet bezig met illegale activiteiten, of is er geen geldige reden (dus persoon is enkel aan het volgen bijvoorbeeld), dan is er geen reden om iemand te overvallen.
+  * Het plannen van een deal met als doel iemand op te lichten is eveneens niet toegestaan (behalve bij illegale activiteiten/goederen).
+  * In een appartement/huis is het oplichten van anderen, de handel in wapens en drugs, het plegen van moorden of ontvoeringen, en het gebruik van wapens ten strengste verboden. (Dit mag alleen buiten een appartement/huis).
 * Herhaaldelijk overvallen of oplichten. Het is niet toegestaan om de hele dag bezig te zijn met deze activiteiten. Continu engagement in dergelijk gedrag wordt beschouwd als toxisch en wordt over het algemeen niet gewaardeerd. Enkele incidenten zijn acceptabel, maar dienen met mate plaats te vinden.
 
 ### 2.1.4 - Overvallen tijdens evenementen
