@@ -176,7 +176,9 @@ Vanzelfsprekend is het voor bovenstaande groepen niet de bedoeling dat deze vluc
 
 Groeperingen mogen alleen samenwerken als het totaal aantal leden niet meer betreft als 15. (Beide groeperingen bij elkaar opgeteld!) Je mag met maximaal 1 andere groepering samenwerken!
 
-Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.
+Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.\
+\
+Het is voor de Politie en criminelen niet toegestaan om de Groepering/Koppel limiet te overschrijden!
 
 ### 2.1.2 - Overvallen & Wapens
 
