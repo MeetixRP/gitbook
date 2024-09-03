@@ -178,7 +178,7 @@ Groeperingen mogen alleen samenwerken als het totaal aantal leden niet meer betr
 
 Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.\
 \
-Het is voor de Politie en criminelen niet toegestaan om de Groepering/Koppel limiet te overschrijden!
+Het is voor zowel de politie als criminelen niet toegestaan om het limiet voor groeperingen/koppels te overschrijden. Als een agent wordt uitgeschakeld door bewusteloos te raken of te sterven, mag deze niet meer deelnemen. Daarnaast is het niet toegestaan om een vervanger in te schakelen.
 
 ### 2.1.2 - Overvallen & Wapens
 
