@@ -76,7 +76,7 @@ De overtreding van Wet 1.9 (Exploits) zal resulteren in een straf van de 6ᵉ ca
 1. Iemand herkennen aan zijn of haar gezicht is toegestaan in Groningen. Herken je bijvoorbeeld iemand aan zijn of haar outfit is dit ook toegestaan en dit mag ook gebruikt worden in de roleplay.
 2. Iemand herkennen aan zijn of haar stem is ook toegestaan wanneer diegene geen stemvervormer gebruikt.
 
-De overtreding van Wet 1.10 (Herkenning) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+Het is echter verplicht om alle gevonden bugs, exploits en glitches te melden. Doe je dit niet, dan staat hier een zware straf op.
 
 ### 1.11 - Voice changers & Soundpad(s)
 
