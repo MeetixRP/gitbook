@@ -186,7 +186,7 @@ Het is voor zowel de politie als criminelen niet toegestaan om het limiet voor g
 2. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
 3. Herhaaldelijk opeisen van in beslag genomen wapens is niet toegestaan. Als een wapen in beslag is genomen, kan het alleen worden teruggewonnen door een agent te rippen. Echter, als je een wapen wilt terugeisen door agenten onder druk te zetten door het gijzelen van hun collega's of burgers, moet er toestemming komen van een officier van justitie (of hoger).
 4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
-5. Het is voor de Politie en criminelen niet toegestaan om de Groepering/Koppel limiet te overschrijden! Zie:[#id-1.20-groeperingen-gangs](./#id-1.20-groeperingen-gangs "mention")
+5. Het is voor de Politie en criminelen niet toegestaan om de Groepering/Koppel limiet te overschrijden! Zie:[#id-1.20-groeperingen-gangs](server-regels.md#id-1.20-groeperingen-gangs "mention")
 6. Het is niet toegestaan om de Politie van buitenaf af te wachten. Je mag van buitenaf meedoen maar je mag niet op een andere locatie de Politie opwachten
 
 ### 2.1.3 - Overvallen en oplichten van spelers

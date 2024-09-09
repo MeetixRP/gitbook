@@ -44,3 +44,4 @@ Keybinds zijn te wijzigen in het `Escape` menu (`Escape > Settings > Keybinds > 
 * `/shuff` - Verplaats van stoel
 * `/stoel [0-16]` - Verplaats van stoel, naar gewenst stoelnummer.
 * `/hud` - Pas de hud aan, zet delen op een gewenste plek of pas de style aan.
+* `/gangmenu - Open je gang menu (Bindable)`

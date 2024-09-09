@@ -4,8 +4,7 @@
 
 ## Regels
 
-* [Server-regels](regels/server-regels/README.md)
-  * [Offroad-voertuigen](regels/server-regels/offroad-voertuigen.md)
+* [Server-regels](regels/server-regels.md)
 
 ## Informatie
 
