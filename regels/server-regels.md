@@ -174,7 +174,7 @@ Vanzelfsprekend is het voor bovenstaande groepen niet de bedoeling dat deze vluc
 
 ### 1.20 - Groeperingen/gangs
 
-Groeperingen mogen alleen samenwerken als het totaal online leden niet meer betreft als 15. (Beide groeperingen bij elkaar opgeteld!) Je mag met maximaal 1 andere groepering samenwerken!
+Groeperingen mogen alleen samenwerken als het totaal online leden niet meer betreft als 15. (Beide groeperingen bij elkaar opgeteld!) Je mag met maximaal 2 andere groeperingen samenwerken!
 
 Daarnaast is het maximale ledenaantal voor groepering beperkt tot 15. Deze regel is ingesteld om een eerlijke kansen te waarborgen, waarbij kleinere groeperingen ook een reële kans hebben tegenover grotere en groepen.\
 \
